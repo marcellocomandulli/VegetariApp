@@ -8,7 +8,7 @@ function App() {
       <div className="flex flex-col h-screen justify-between">
         <div className="font-regular p-3 flex flex-col items-center h">
           <img
-            src="../src/assets/img/Salad.png"
+            src="./assets/img/Salad.png"
             alt="Vegetarian salad"
             className="relative bottom-3"
           />
@@ -35,21 +35,21 @@ function App() {
             <div className="flex space-x-3">
               <a href="#">
                 <img
-                  src="../src/assets/img/ig.png"
+                  src="./assets/img/ig.png"
                   alt="Instagram link"
                   className="w-4 h-4"
                 />
               </a>
               <a href="#">
                 <img
-                  src="../src/assets/img/fb.png"
+                  src="./assets/img/fb.png"
                   alt="Facebook link"
                   className="w-4 h-4"
                 />
               </a>
               <a href="#">
                 <img
-                  src="../src/assets/img/yt.png"
+                  src="./assets/img/yt.png"
                   alt="YouTube link"
                   className="w-4 h-4"
                 />
