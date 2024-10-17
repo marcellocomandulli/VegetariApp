@@ -10,4 +10,4 @@ API that I used comes from [Spoonacular](https://spoonacular.com/food-api/docs).
 
 On the Home page there is a search bar where you can type in your recipe, which you will find below after a moment.
 
-Inside footer you will find contacts and about us sections and our socials.
+Nel footer trovi le nostre sezioni contatti e about us, oltre ai nostri socials.
