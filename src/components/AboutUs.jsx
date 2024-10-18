@@ -6,7 +6,7 @@ function AboutUs() {
     <>
       <div className="font-regular p-3 flex flex-col items-center">
         <img
-          src="../assets/img/Salad.png"
+          src="../../public/img/Salad.png"
           alt="Vegetarian salad"
           className="relative bottom-3"
         />
@@ -50,21 +50,21 @@ function AboutUs() {
           <div className="flex space-x-3">
             <a href="#">
               <img
-                src="../assets/img/ig.png"
+                src="../../public/img/ig.png"
                 alt="Instagram link"
                 className="w-4 h-4"
               />
             </a>
             <a href="#">
               <img
-                src="../assets/img/fb.png"
+                src="../../public/img/fb.png"
                 alt="Facebook link"
                 className="w-4 h-4"
               />
             </a>
             <a href="#">
               <img
-                src="../assets/img/yt.png"
+                src="../../public/img/yt.png"
                 alt="YouTube link"
                 className="w-4 h-4"
               />

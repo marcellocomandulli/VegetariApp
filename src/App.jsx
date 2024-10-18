@@ -5,10 +5,11 @@ import { Link } from "react-router-dom";
 function App() {
   return (
     <>
+    {/* Header with img, title, subtitle and API */}
       <div className="flex flex-col h-screen justify-between">
         <div className="font-regular p-3 flex flex-col items-center h">
           <img
-            src="./assets/img/Salad.png"
+            src="../public/img/Salad.png"
             alt="Vegetarian salad"
             className="relative bottom-3"
           />
@@ -23,6 +24,7 @@ function App() {
           <Api />
         </div>
 
+        {/* Footer with links and other pages*/}
         <div className="bg-[#D2C3A3]  rounded-t-lg flex flex-col items-center py-3 space-y-2 md:grid md:grid-cols-2">
           <div className="flex flex-col justify-center items-center space-y-1">
             <span className="font-medium text-sm">VEGETARIAPP</span>
@@ -35,21 +37,21 @@ function App() {
             <div className="flex space-x-3">
               <a href="#">
                 <img
-                  src="./assets/img/ig.png"
+                  src="../public/img/ig.png"
                   alt="Instagram link"
                   className="w-4 h-4"
                 />
               </a>
               <a href="#">
                 <img
-                  src="./assets/img/fb.png"
+                  src="../public/img/fb.png"
                   alt="Facebook link"
                   className="w-4 h-4"
                 />
               </a>
               <a href="#">
                 <img
-                  src="./assets/img/yt.png"
+                  src="../public/img/yt.png"
                   alt="YouTube link"
                   className="w-4 h-4"
                 />
