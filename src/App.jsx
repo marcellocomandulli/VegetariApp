@@ -5,11 +5,11 @@ import { Link } from "react-router-dom";
 function App() {
   return (
     <>
-    {/* Header with img, title, subtitle and API */}
+      {/* Header with img, title, subtitle and API */}
       <div className="flex flex-col h-screen justify-between">
         <div className="font-regular p-3 flex flex-col items-center h">
           <img
-            src="../public/img/Salad.png"
+            src="../img/Salad.png"
             alt="Vegetarian salad"
             className="relative bottom-3"
           />
@@ -37,21 +37,21 @@ function App() {
             <div className="flex space-x-3">
               <a href="#">
                 <img
-                  src="../public/img/ig.png"
+                  src="../img/ig.png"
                   alt="Instagram link"
                   className="w-4 h-4"
                 />
               </a>
               <a href="#">
                 <img
-                  src="../public/img/fb.png"
+                  src="../img/fb.png"
                   alt="Facebook link"
                   className="w-4 h-4"
                 />
               </a>
               <a href="#">
                 <img
-                  src="../public/img/yt.png"
+                  src="../img/yt.png"
                   alt="YouTube link"
                   className="w-4 h-4"
                 />
