@@ -1,4 +1,5 @@
 # VEGETARIAPP
+[Try it here](https://vegetariapp.netlify.app)
 
 ## THE PROJECT
 
@@ -11,3 +12,4 @@ API that I used comes from [Spoonacular](https://spoonacular.com/food-api/docs).
 On the Home page there is a search bar where you can type in your recipe, which you will find below after a moment.
 
 Nel footer trovi le nostre sezioni contatti e about us, oltre ai nostri socials.
+
