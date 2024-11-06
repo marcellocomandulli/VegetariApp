@@ -85,7 +85,7 @@ function Contacts() {
               <Link to={"/"}>Home</Link>
             </li>
             <li className="underline text-sm">
-              <Link to={"/src/components/AboutUs.jsx"}>About us</Link>
+              <Link to={"/about"}>About us</Link>
             </li>
           </ul>
         </div>

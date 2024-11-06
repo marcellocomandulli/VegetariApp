@@ -57,13 +57,13 @@ function App() {
                 />
               </a>
             </div>
-tutto bello
+
             <ul className="flex space-x-3">
               <li className="underline text-sm">
-                <Link to={"/src/components/AboutUs.jsx"}>About us</Link>
+                <Link to={"/about"}>About us</Link>
               </li>
               <li className="underline text-sm">
-                <Link to={"/src/components/Contacts.jsx"}>Contacts</Link>
+                <Link to={"/contacts"}>Contacts</Link>
               </li>
             </ul>
           </div>
