@@ -10,7 +10,9 @@ function Api() {
   const [currentPage, setCurrentPage] = useState(1);
   const [loading, setLoading] = useState(false);
 
-  const apiKey = "e8ac3b69a57749bab0c639552344ce4e";
+
+
+  const apiKey = import.meta.env.VITE_API_KEY;
   const resultsPerPage = 5;
 
   useEffect(() => {
